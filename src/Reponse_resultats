@@ -1,0 +1,6 @@
+Réponse de questions
+
+3->Il y a un echec. La méthode "equals" n'est pas défini dans la classe money.
+5->Il y a maintenant 2 echecs. 
+Réponse au simplification de la question 13
+ Les opérations d'addition ont abouti à un montant unique qui n'est pas regroupé avec d'autres montants de MoneyBag.
